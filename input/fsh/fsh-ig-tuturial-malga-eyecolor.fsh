@@ -8,7 +8,7 @@ Title: "Eyecolor"
 * effective[x] only dateTime
 
 CodeSystem: Colors
-Id: colors-tuturial
+Id: colors-training
 Title: "Colors"
 Status: "draft"
 Content: "example"
